@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Project Kick off email",
+    "description": "Download Document",
+    "fileUrl": "/files/project_kickoff_email.docx"
+  },
+  {
+    "id": 2,
+    "name": "Wireframe Alignment",
+    "description": "Download Document",
+    "fileUrl": "/files/wireframe_alignment.docx"
+  },
+  {
+    "id": 3,
+    "name": "Wireframe signoff",
+    "description": "Download Document",
+    "fileUrl": "/files/wireframe_alignment.docx"
+  },
+  {
+    "id": 4,
+    "name": "KT sign off",
+    "description": "Download Document",
+    "fileUrl": "/files/kt_sign_off.docx"
+  }
+]

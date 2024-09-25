@@ -1,0 +1,10 @@
+{
+  "projectId": 2,
+  "projectName": "Project Beta",
+  "ongoing": [
+    { "id": 1, "title": "Design Phase", "description": "Working on design" }
+  ],
+  "completed": [
+    { "id": 2, "title": "Initial Planning", "description": "Planning phase completed" }
+  ]
+}

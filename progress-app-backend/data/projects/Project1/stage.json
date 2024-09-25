@@ -1,0 +1,10 @@
+{
+  "projectId": 1,
+  "projectName": "Project Alpha",
+  "ongoing": [
+    { "id": 1, "title": "Initial Setup", "description": "Setting up the project" }
+  ],
+  "completed": [
+    { "id": 2, "title": "Requirement Analysis", "description": "Completed requirement analysis" }
+  ]
+}
